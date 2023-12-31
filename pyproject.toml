@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ml-fastapi"
+name = "ObjectDetection"
 version = "0.1.0"
 description = "ML project with FastAPI interface"
 authors = ["Alexander <as.frantsev@gmail.com>"]
