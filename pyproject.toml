@@ -21,6 +21,13 @@ torch = "^2.1.2"
 numpy = "^1.26.2"
 art = "^6.1"
 ultralytics = "^8.0.231"
+pytorchvideo = "^0.1.5"
+visualization = "^1.0.0"
+pyopengl = "^3.1.7"
+pyopengl-accelerate = "^3.1.7"
+facenet-pytorch = "^2.5.3"
+mmcv = "^2.1.0"
+iprogress = "^0.4"
 
 [tool.poetry.group.dev.dependencies]
 pandas = "^2.1.3"
