@@ -23,6 +23,8 @@ ultralytics = "^8.0.231"
 facenet-pytorch = "^2.5.3"
 mmcv = "^2.1.0"
 torchvision = "^0.16.2"
+transformers = "^4.36.2"
+timm = "^0.9.12"
 
 [tool.poetry.group.dev.dependencies]
 pandas = "^2.1.3"
