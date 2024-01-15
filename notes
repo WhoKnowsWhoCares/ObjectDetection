@@ -1,0 +1,8 @@
+face recognition libs:
+    face_recognition, 
+    detectron2 https://github.com/facebookresearch/detectron2/tree/main 
+        https://www.evogeek.ru/articles/222123/ 
+        https://pytorchvideo.org/docs/tutorial_torchhub_detection_inference 
+    facenet_pytorch https://github.com/timesler/facenet-pytorch/tree/master
+        https://www.kaggle.com/code/timesler/facial-recognition-model-in-pytorch
+
